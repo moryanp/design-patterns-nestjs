@@ -1,0 +1,14 @@
+{
+  "name": "design-patters-template",
+  "version": "1.0.0",
+  "description": "Template for NestJS applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natan M. Paredes",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
